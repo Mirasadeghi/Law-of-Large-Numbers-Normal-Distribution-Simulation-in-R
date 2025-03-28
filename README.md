@@ -1,4 +1,4 @@
-# 🎯 Simulating the Law of Large Numbers with R
+🎯 Simulating the Law of Large Numbers with R
 
 This project demonstrates the **Law of Large Numbers** using the standard normal distribution in **R**.
 
@@ -34,6 +34,13 @@ It's also a great way to practice working with:
 You can expect an output like:
 Simulated Proportion: 0.6823
 Which closely matches the theoretical value of `0.682`.
+
+![1](https://github.com/user-attachments/assets/8a34dac8-544b-486b-98e3-a4aee2e49c3f)
+
+![2](https://github.com/user-attachments/assets/5629c2a1-044c-4956-84cf-51bd258b25ad)
+
+
+
 
 ---
 
